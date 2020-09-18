@@ -2,7 +2,7 @@
 
 To create your own mirror you need crap cvs tool. Scripts were tested on Ubuntu 18.04 LTS.
 
-## libev raw mirror
+## libeio raw mirror
 
 1. clone and build https://github.com/rcls/crap
 2. edit `mirror_cvs.sh`, change variable `REPO_GIT` to your own.
